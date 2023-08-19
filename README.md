@@ -34,30 +34,6 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <details>
-  <summary>📊 <b>Github Readme Stats</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com//IaM-ShubhamNegi">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=/IaM-ShubhamNegi&show_icons=true&theme=radical&count_private=true">
-  </a>
-  <a href="https://github.com//IaM-ShubhamNegi/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=/IaM-ShubhamNegi&layout=compact&theme=radical&langs_count=6" />
-  </a>
- </p>
-</details>
-
-<details>
- <summary>🏆 <b>Github Profile Trophy</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=/IaM-ShubhamNegi&column=8&theme=darkhub"/>
-  </a>
- </p>
-</details>
-
-
-<details>
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
