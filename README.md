@@ -30,7 +30,6 @@
 <a href="https://www.linkedin.com/in/shubham-negi01" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="abhinandanraj" /></a>
 <a href="https://github.com/IaM-ShubhamNegi" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
 <a href="mailto:Official.ShubhamNEgi@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinandanraj&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
@@ -38,11 +37,11 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/abhinandanraj">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanraj&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com//IaM-ShubhamNegi">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=/IaM-ShubhamNegi&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/abhinandanraj/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhinandanraj&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com//IaM-ShubhamNegi/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=/IaM-ShubhamNegi&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 </details>
@@ -52,7 +51,7 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=/IaM-ShubhamNegi&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
@@ -63,7 +62,7 @@
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
   	   <li><b>OS:</b> Windows 11 </li>
-	     <li><b>Laptop: </b> MSI Bravo 15 (AMD RYZEN 5)</li>
+	     <li><b>Laptop: </b> HP pavalion 15 (intel II5)</li>
   	   <li><b>Browser: </b> Firefox Web Browser</li>
 	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	     <li><b>To Stay Updated:</b> Linkedin </li>
